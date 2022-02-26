@@ -1,0 +1,8 @@
+1- run maigration with seeds
+2- use email admin@gmail.com with password 123456 to log in as admin
+3- add categoris and courses to show in index page
+4- use category filter in the midel top of pag
+5- use api api/categories to show categoris for mobail app
+6- use api api/courses to show courses for mobail app
+
+note: For any questions, please feel free to call me 
